@@ -34,7 +34,7 @@
       "System.Runtime.InteropServices.JavaScript.dll": "sha256-vA08ZPcyJJQuKbyTJR43dE+TnFnNR+fNO0xEJqX1TWg=",
       "System.Text.Encodings.Web.dll": "sha256-xI0zCH0pPePsNMfDlBt0akz7DWAFz9MNlPswfkaRcyA=",
       "System.Text.Json.dll": "sha256-64Ps9jA+1YATEUvOT6K\/2mXkEhi\/4MoSsYFIKPDBQL8=",
-      "ToDoListBlazorWASM.dll": "sha256-IQWK\/VImMa49RnXXPlMjJznDD54Pg4iAvQJSrcPXDEw="
+      "ToDoListBlazorWASM.dll": "sha256-jlL2tBOWeZZcQtbWJa8d5r8rB7OCANQEJ6s7K\/1x9gk="
     },
     "extensions": null,
     "lazyAssembly": null,
