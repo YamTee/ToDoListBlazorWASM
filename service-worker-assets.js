@@ -33,7 +33,7 @@
       "url": "_framework\/icudt.dat"
     },
     {
-      "hash": "sha256-z65XYr19I540q4uRcbx0m8k6ANaNOyVxg12YuyD6nr8=",
+      "hash": "sha256-zbiclUkxxVX5YVGu9xRhOxw9vDAixpWUJeFrda\/PSxc=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -61,7 +61,7 @@
       "url": "_framework\/Microsoft.Extensions.Configuration.Json.dll"
     },
     {
-      "hash": "sha256-tkdkrAT4n35\/Yaa5YMYJpqdzzpHol9Ox3jP0FAYcFPE=",
+      "hash": "sha256-7EXBv9S6PagB\/\/PDve1mPZEEgFkj3ZgdBQmBGtcd0ys=",
       "url": "_framework\/Microsoft.Extensions.DependencyInjection.Abstractions.dll"
     },
     {
@@ -85,7 +85,7 @@
       "url": "_framework\/Microsoft.Extensions.Primitives.dll"
     },
     {
-      "hash": "sha256-PPxHw2YJdQP1CZJrQ0xFxNls+3n84tsdYYCDrtKZ1ww=",
+      "hash": "sha256-rG+OTC+kGITN\/tE5GbSTVCaXNHQQpItInLXM9Ez57OE=",
       "url": "_framework\/Microsoft.JSInterop.dll"
     },
     {
@@ -121,7 +121,7 @@
       "url": "_framework\/System.Net.Primitives.dll"
     },
     {
-      "hash": "sha256-fhwPcWNE+dmxF1NHD7+MMaZ9kwPa\/Fzh7ans1Xo8nlw=",
+      "hash": "sha256-NorstSYQVB+NJ3iijAZr1ZXdczVUHwstar8+OXLUQDU=",
       "url": "_framework\/System.Private.CoreLib.dll"
     },
     {
@@ -129,7 +129,7 @@
       "url": "_framework\/System.Private.Uri.dll"
     },
     {
-      "hash": "sha256-+sHvLrBAvX6LSaQETKXOPUnBU8KrrB8uZkFa2Vqz4zM=",
+      "hash": "sha256-nrS9CQm5gBStH5Uznkh+q0OE1hvNdyOF94j3x7WyoLg=",
       "url": "_framework\/System.Runtime.dll"
     },
     {
@@ -145,7 +145,7 @@
       "url": "_framework\/System.Text.Json.dll"
     },
     {
-      "hash": "sha256-Xbw9NPbeAaOnWeBTe0IqCVzblAyTN4\/RBq\/KtXAyRZI=",
+      "hash": "sha256-IQWK\/VImMa49RnXXPlMjJznDD54Pg4iAvQJSrcPXDEw=",
       "url": "_framework\/ToDoListBlazorWASM.dll"
     },
     {
@@ -225,9 +225,13 @@
       "url": "js\/bootstrap.min.js.map"
     },
     {
+      "hash": "sha256-F8xAP\/C6Nv8obroxpQFM36jwnUsChzpwR+ypitzhJuE=",
+      "url": "js\/localStorage.js"
+    },
+    {
       "hash": "sha256-vkpNBQ7fqAL6M9mzWE8m8twnZ7rggZ9WX6s8RLMiKK8=",
       "url": "manifest.json"
     }
   ],
-  "version": "Npl1EHS2"
+  "version": "fBr0T3RC"
 };
